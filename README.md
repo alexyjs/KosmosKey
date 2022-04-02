@@ -29,6 +29,14 @@ I am a 20-year-old boy who loves to code and program web apps / mobile apps 💻
 # Portfolio link
 https://magomedkhamidov.netlify.com
 
+## <img src="gifs/haha.gif" width="25px"> Github stats
+
+<p align="center">
+    <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=marcos-inja&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
+    /> <br>
+    <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-inja&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c,c++,c-make,markdown"/>
+</p>
+
 # Connect with me on
   <a href="mailto:mago.khamidov@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a target="_blank" href="https://www.linkedin.com/in/magomed-khamidov-37b7ba197"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
