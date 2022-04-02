@@ -8,7 +8,7 @@
 - Used to be an IT Support worker as well 😁
 
 
-# 😁&nbsp; About me
+# 💁🏻‍♂️&nbsp; About me
 I am a 20-year-old boy who loves to code and program web apps / mobile apps 💻📱. I have always been passionate about coding since a young age. I also see myself becoming more expert at coding and solving more complex problems in today's world of programming.
 
 # 🛠 &nbsp;My Tech Stack
