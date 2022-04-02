@@ -29,7 +29,7 @@ I am a 20-year-old boy who loves to code and program web apps / mobile apps 💻
 # Portfolio link
 https://magomedkhamidov.netlify.com
 
-# ⚙️ &nbsp; Git Analytics
+# ⚙️ &nbsp;Git Analytics
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=KosmosKey&theme=dark&show_icons=true" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KosmosKey&theme=dark&layout=compact" width="410" /></p>
