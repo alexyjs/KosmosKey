@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mago </h1>
+<h1 align="left">Hi <img src="https://tenor.com/view/hi-gif-23520343" width="30px">, I'm Mago </h1>
 
 - A Software Developer ✨
 - A Strong Team Worker 💻
