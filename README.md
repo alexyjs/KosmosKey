@@ -14,22 +14,22 @@
 I am a 20-year-old boy who loves to code and program web apps / mobile apps 💻📱. I have always been passionate about coding since a young age. I also see myself becoming more expert at coding and solving more complex problems in today's world of programming.
 
 # 🛠 &nbsp;My Tech Stack
-✅ HTML
-✅ CSS / Sass / Styled Component
-✅ Web3 / Polkadot / DeFi
-✅ Solidity
-✅ JavaScript
-✅ Apollo / GraphQL
-✅ The Graph
-✅ Chakra UI / Material UI / Tailwind CSS / Ant Design
-✅ React JS / Next JS / Gatsby JS
-✅ Redux / Redux Thunk / Redux Saga
-✅ Node JS / Express JS / Nest JS / REST API
-✅ MongoDB / Mongoose / Postgres SQL
-✅ Git / GitHub / Gitlab
+- ✅ HTML
+- ✅ CSS / Sass / Styled Component
+- ✅ Web3 / Polkadot / DeFi
+- ✅ Solidity
+- ✅ JavaScript
+- ✅ Apollo / GraphQL
+- ✅ The Graph
+- ✅ Chakra UI / Material UI / Tailwind CSS / Ant Design
+- ✅ React JS / Next JS / Gatsby JS
+- ✅ Redux / Redux Thunk / Redux Saga
+- ✅ Node JS / Express JS / Nest JS / REST API
+- ✅ MongoDB / Mongoose / Postgres SQL
+- ✅ Git / GitHub / Gitlab
 
 # 💼 &nbsp;Portfolio link
-https://magomedkhamidov.netlify.com
+  <a href="https://magomedkhamidov.netlify.com" target="blank">Click Here</a>
 
 
 # Connect with me on
