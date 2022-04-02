@@ -1,4 +1,4 @@
-<h1 align="left">Hi <div class="tenor-gif-embed" data-postid="23520343" data-share-method="host" data-aspect-ratio="1.02564" data-width="100%"><a href="https://tenor.com/view/hi-gif-23520343">Hi Sticker</a>from <a href="https://tenor.com/search/hi-stickers">Hi Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>, I'm Mago </h1>
+<h1 align="left">Hi <img src='https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif'/> I'm Mago </h1>
 
 - A Software Developer ✨
 - A Strong Team Worker 💻
