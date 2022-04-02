@@ -1,3 +1,5 @@
+![Magomed Khamidov homepage](banner.png)
+
 <h1 align="left">Hi <img src="./wave.gif" width="30px" />, I'm Mago </h1>
 
 - A Software Developer ✨
