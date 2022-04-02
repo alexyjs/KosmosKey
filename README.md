@@ -1,4 +1,4 @@
-![Magomed Khamidov homepage](banner.png)
+![Magomed Khamidov homepage](banner.gif)
 
 <h1 align="left">Hi <img src="./wave.gif" width="30px" />, I'm Mago </h1>
 
