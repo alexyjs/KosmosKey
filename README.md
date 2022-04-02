@@ -8,7 +8,7 @@
 - Used to be an IT Support worker as well 😁
 
 
-# 💁🏻‍♂️&nbsp; About me
+# 💬&nbsp; About me
 I am a 20-year-old boy who loves to code and program web apps / mobile apps 💻📱. I have always been passionate about coding since a young age. I also see myself becoming more expert at coding and solving more complex problems in today's world of programming.
 
 # 🛠 &nbsp;My Tech Stack
@@ -28,11 +28,6 @@ I am a 20-year-old boy who loves to code and program web apps / mobile apps 💻
 
 # 💼 &nbsp;Portfolio link
 https://magomedkhamidov.netlify.com
-
-# ⚙️ &nbsp;Git Analytics
- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=KosmosKey&theme=dark&show_icons=true" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KosmosKey&theme=dark&layout=compact" width="410" /></p>
 
 
 # Connect with me on
