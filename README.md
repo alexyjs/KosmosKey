@@ -26,7 +26,7 @@ I am a 20-year-old boy who loves to code and program web apps / mobile apps 💻
 - ✅ MongoDB / Mongoose / Postgres SQL
 - ✅ Git / GitHub / Gitlab
 
-# Portfolio link
+# 💼&nbsp;Portfolio link
 https://magomedkhamidov.netlify.com
 
 # ⚙️ &nbsp;Git Analytics
