@@ -29,7 +29,7 @@ I am a 20-year-old boy who loves to code and program web apps / mobile apps 💻
 - ✅ Git / GitHub / Gitlab
 
 # 💼 &nbsp;Portfolio link
-  <a href="https://magomedkhamidov.netlify.com" target="blank">Click Here</a>
+  <a href="https://magomedkhamidov.netlify.com" target="blank">Portfolio</a>
 
 
 # Connect with me on
