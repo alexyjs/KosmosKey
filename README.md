@@ -1,4 +1,5 @@
-# Hello <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>, I am Magomed (Mago) 😃 
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Magomed (Mago) 😃 </h1>
+
 - A Software Developer ✨
 - A Strong Team Worker 💻
 - A Passionate Guy ⚡️
