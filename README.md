@@ -19,13 +19,15 @@ I am a 20-year-old boy who loves to code and program web apps / mobile apps 💻
 - ✅ Web3 / Polkadot / DeFi
 - ✅ Solidity
 - ✅ JavaScript
-- ✅ Apollo / GraphQL
-- ✅ The Graph
+- ✅ Apollo / GraphQL / The Graph
+- ✅ Storybook
 - ✅ Chakra UI / Material UI / Tailwind CSS / Ant Design
 - ✅ React JS / Next JS / Gatsby JS
 - ✅ Redux / Redux Thunk / Redux Saga
 - ✅ Node JS / Express JS / Nest JS / REST API
 - ✅ MongoDB / Mongoose / Postgres SQL
+- ✅ JWT / Bcrypt JS / Passport JS
+- ✅ Firebase
 - ✅ Git / GitHub / Gitlab
 
 # 💼 &nbsp;Portfolio link
