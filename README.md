@@ -36,7 +36,7 @@ I am a 20-year-old guy who loves to code and program web apps / mobile apps 💻
 
 # Connect with me on
   <a href="mailto:mago.khamidov@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a target="_blank" href="https://www.linkedin.com/in/magomed-khamidov-37b7ba197"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+  <a target="_blank" href="https://www.linkedin.com/in/magomed-khamidov-%F0%9F%9A%80-37b7ba197"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
   <a href="https://twitter.com/KosmosDeveloper"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 #### Feel free to contribute to any of my repositories 😁
